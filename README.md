@@ -22,3 +22,4 @@ git status
 git add 
 git commit -m "Update README"
 ```
+Pull Request practice completed.
