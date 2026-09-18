@@ -1,25 +1,39 @@
 # SOC Incident Investigation
-Blue Team training repository
-Version from main branch
-Version from feature branch
-# Git Practice
-## Проєкт
-### Git & GitHub
-## Прогрес
-- [x] день 1
-- [x] день 2
-- [x] день 3
-- [ ] день 8
-## Команди
-| команда | призначення |
-|---|---|
-| git status | перевірити зміни |
-| git add | додати файли |
-| git commit | створити коміт |
-## приклад
-```bash
-git status
-git add 
-git commit -m "Update README"
+
+Blue Team training repository for learning Git, GitHub and SOC fundamentals.
+
+## Project Structure
+
+```text
+git-practice/
+├── docs/            # Documentation
+├── src/             # Source code
+├── reports/         # Investigation reports
+├── screenshots/     # Images and evidence
+├── logs/            # Log files
+└── README.md
 ```
-Pull Request practice completed.
+
+## Git & GitHub Progress
+
+- [x] Day 1 — Repository setup
+- [x] Day 2 — Commits
+- [x] Day 3 — Branches
+- [x] Day 10 — Pull Request & Merge
+- [x] Day 11 — Project Structure
+
+## Common Git Commands
+
+| Command | Purpose |
+|---|---|
+| `git status` | Check repository status |
+| `git add .` | Stage all changes |
+| `git commit -m "message"` | Create a commit |
+| `git push` | Upload changes to GitHub |
+| `git pull` | Download latest changes |
+
+## Status
+
+Current branch: `feature/pull-request`
+
+Latest completed task: **Project Structure**
